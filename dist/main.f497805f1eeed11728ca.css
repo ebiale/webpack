@@ -1,0 +1,9 @@
+html,
+body {
+    background-color: lightgray;
+}
+
+.thumb {
+    height: 25vh;
+    max-height: 120px;
+}
